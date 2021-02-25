@@ -1,4 +1,4 @@
-# Production Management System
+# Paper Quiz
 
 Online paper Quiz made for teachers and students to manage exams in online, this simple system made to task of Ceyentra Technologies company as an intern.
 This system backend developed using Spring and frontend developed using React.
